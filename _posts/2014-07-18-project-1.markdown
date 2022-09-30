@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-09-30
-img: cabin.png
+img: turing_machine_logo.png
 alt: image-alt
 project-date: September 2022
 client: Turing Machine Simulator
