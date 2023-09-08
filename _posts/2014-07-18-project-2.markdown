@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2023-09-07
+img: xEditorPresent.png
+alt: image-alt
+project-date: September 2023
+client: xEditor
+category: Mobile App
+description: Unlike other applications that require knowledge of specific mathematical language syntax like LaTeX, xEditor simplifies the process. Users just need to write simple symbols like "+" or "-" and the app will automatically create a math formula in the correct format, similar to those found in math textbooks.
+---

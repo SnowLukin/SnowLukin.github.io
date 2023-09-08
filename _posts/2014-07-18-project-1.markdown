@@ -9,3 +9,13 @@ client: Turing Machine Simulator
 category: Mobile App
 description: A Turing machine is a mathematical model of computation describing an abstract machine that manipulates symbols on a strip of tape according to a table of rules. Despite the model's simplicity, it is capable of implementing any computer algorithm.
 ---
+layout: default
+modal-id: 1
+date: 2022-09-30
+img: turing_machine_logo.png
+alt: image-alt
+project-date: September 2022
+client: Turing Machine Simulator
+category: Mobile App
+description: A Turing machine is a mathematical model of computation describing an abstract machine that manipulates symbols on a strip of tape according to a table of rules. Despite the model's simplicity, it is capable of implementing any computer algorithm.
+---
